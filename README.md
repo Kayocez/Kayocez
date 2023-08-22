@@ -4,7 +4,7 @@ Sobre Mim
 
 - 🔭 Eu estou trabalhando com programação.
 - 🌱 Estou aprendendo React.
-- 💬 Simplesmente amo espotes.
+- 💬 Simplesmente amo esportes.
 
 <div align="center">
   <a href="https://github.com/kayocez">
