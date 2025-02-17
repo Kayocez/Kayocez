@@ -2,6 +2,6 @@
 
 Sobre Mim
 
-- 🔭 Atualmente trabalhando como Consultor de IT.
-- 🌱 Estou aprendendo Go/Golang.
+- 🔭 Transitando de Application Support para Software Developer Backend.
+- 🌱 Estou aprendendo C# .NET
 
