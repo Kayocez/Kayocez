@@ -3,5 +3,5 @@
 Sobre Mim
 
 - 🔭 Transitando de Application Support para Software Developer Backend.
-- 🌱 Estou aprendendo C# .NET
+- 🌱 Estou aprendendo Python para Devops
 
