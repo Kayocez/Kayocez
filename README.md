@@ -2,6 +2,6 @@
 
 Sobre Mim
 
-- 🔭 Transitando de Application Support para Software Developer Backend.
-- 🌱 Estou aprendendo Python para Devops
+- 🔭 Transitando de Application Support para Data Engineer.
+- 🌱 Estou aprendendo Pipelines de ETL com Python.
 
